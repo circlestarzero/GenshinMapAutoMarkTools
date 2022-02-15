@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["4515.773131248742", "4054.6959517083797"] }, "type": "Feature", "properties": { "popTitle": "摆设图纸 - 稻妻", "popupContent": "完成踏鞴物语后\n【第7日】找到【泽维尔】接取【踏鞴物语 · 终章】\n完成后获得摆设图纸【梦见木方凳】" }, "id": 1 }] }, 

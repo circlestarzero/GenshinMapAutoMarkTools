@@ -1,0 +1,4 @@
+{ "geometry": { "type": "Point", "coordinates": ["2093.5842567642085", "-2600.580112188595"] }, "type": "Feature", "properties": { "popTitle": "公主之匣", "popupContent": "触摸剑柄完成挑战后获得一个【公主之匣】\n集齐三个之后可以【开启密室大门】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1444.3644557004236", "-2416.6353798661416"] }, "type": "Feature", "properties": { "popTitle": "祭祀之匣", "popupContent": "打开此处【华丽的宝箱】获得【祭祀之匣】\n集齐三个之后可以【开启密室大门】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1438.5003905296144", "-2066.6671442433026"] }, "type": "Feature", "properties": { "popTitle": "记事者之匣", "popupContent": "为此处石碑【放置三朵塞西莉亚花】获得【记事者之匣】\n集齐三个之后可以【开启密室大门】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1895.33047962401", "-2168.48939153667"] }, "type": "Feature", "properties": { "popTitle": "密室大门", "popupContent": "在此处开启【密室大门】\n建议从【神像】处飞过来" }, "id": 4 }] }, 

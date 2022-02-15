@@ -1,0 +1,4 @@
+{ "geometry": { "type": "Point", "coordinates": ["-1543.8625335758907", "2036.3725980393374"] }, "type": "Feature", "properties": { "popTitle": "飘浮灵 - 渊下宫", "popupContent": "此处有一只【冰】飘浮灵" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1531.8601903982071", "2046.376258137956"] }, "type": "Feature", "properties": { "popTitle": "飘浮灵 - 渊下宫", "popupContent": "此处有一只【冰】飘浮灵" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1601.715694441047", "2022.4143231635862"] }, "type": "Feature", "properties": { "popTitle": "飘浮灵 - 渊下宫", "popupContent": "此处有一只【冰】飘浮灵" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1581.7117891449075", "2072.432623656676"] }, "type": "Feature", "properties": { "popTitle": "飘浮灵 - 渊下宫", "popupContent": "此处有一只【冰】飘浮灵" }, "id": 4 }] }, null, 

@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["4145.5587747068985", "7650.096908899875"] }, "type": "Feature", "properties": { "popTitle": "观景点 - 鹤观", "popupContent": "鹤观 · 鹤观\n注：完成世界任务【雾海纪行-日轮与菅名山】后，在底部此处观察" }, "id": 1 }] }, 

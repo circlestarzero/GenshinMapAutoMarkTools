@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["-82.171668288865", "-3779.9860992549"] }, "type": "Feature", "properties": { "popTitle": "丘丘人 - 海岛", "popupContent": "这里有两只丘丘人" }, "id": 1 }] }, 

@@ -1,0 +1,3 @@
+{ "geometry": { "type": "Point", "coordinates": ["6489.399963378906", "2086.2012310056016"] }, "type": "Feature", "properties": { "popTitle": "千门虚舟", "popupContent": "如孤舟般漂游在海上的隐蔽岛屿,在过去似乎曾是有名天狗的别馆,曾接待过当时小有名气的「影向役者三人众」;后来成了此人灰心之后虚度余生的樊笼。\n" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4830.333408596114", "4338.50073161816"] }, "type": "Feature", "properties": { "popTitle": "借景之馆", "popupContent": "【注：需要用大炮轰开此处山石】\n据说是古时避世的武人在大地深处借世外之景,修建的华美宅邸。日后有人在其中发现了如同白纸一般失心的倾奇者。" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3498.6668171922292", "4506.00073161816"] }, "type": "Feature", "properties": { "popTitle": "阵代屋敷", "popupContent": "曾属于远吕羽氏尊麾下将领的屋亭。直到在其生涯的最末,他、神骸与天空都被一线的闪电切断。" }, "id": 3 }] }, 

@@ -1,0 +1,2 @@
+{ "geometry": { "type": "Point", "coordinates": ["1589.2275140236616", "3896.7600597497094"] }, "type": "Feature", "properties": { "popTitle": "萤术士 - 稻妻", "popupContent": "此处有【1位】【雷】萤术士" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5458.6894373863015", "4978.119787220605"] }, "type": "Feature", "properties": { "popTitle": "萤术士 - 稻妻", "popupContent": "此处有一位【冰】萤术士" }, "id": 7 }] }, 

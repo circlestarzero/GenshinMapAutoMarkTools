@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["1813.6675372044", "-1482.6671442433"] }, "type": "Feature", "properties": { "popTitle": "大型丘丘人 - 海岛", "popupContent": "这里有一只丘丘岩盔王" }, "id": 1 }] }, 

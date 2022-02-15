@@ -1,0 +1,5 @@
+{ "geometry": { "type": "Point", "coordinates": ["-376.1361300939975", "24.838320013092016"] }, "type": "Feature", "properties": { "popTitle": "食材调查点 - 璃月", "popupContent": "调查此处出现【1-2个】食材\n可出现【卷心菜】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-377.70899439053574", "17.45756614668062"] }, "type": "Feature", "properties": { "popTitle": "食材调查点 - 璃月", "popupContent": "调查此处出现【1-2个】食材\n可出现【胡萝卜、小麦】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-379.70938492014966", "18.207291789869487"] }, "type": "Feature", "properties": { "popTitle": "食材调查点 - 璃月", "popupContent": "调查此处出现【1-2个】食材\n可出现【土豆】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["629.7800707802744", "-885.5507560098977"] }, "type": "Feature", "properties": { "popTitle": "食材调查点 - 璃月", "popupContent": "调查此处出现【2-3个】食材\n可出现【胡萝卜、小麦】" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["601.5235294092399", "-906.8035910302706"] }, "type": "Feature", "properties": { "popTitle": "食材调查点 - 璃月", "popupContent": "调查此处出现【1-2个】食材\n可出现【卷心菜】" }, "id": 5 }] }, 

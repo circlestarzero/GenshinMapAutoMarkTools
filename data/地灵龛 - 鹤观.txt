@@ -1,0 +1,2 @@
+{ "geometry": { "type": "Point", "coordinates": ["4446.333506228518", "7374.25"] }, "type": "Feature", "properties": { "popTitle": "地灵龛 - 鹤观", "popupContent": "地灵龛内有一个【华丽宝箱】开启后可以获得\n【60冒险阅历】【40原石】【雷之印 ×10】\n【摩拉×5000】【紫色天赋书×2】【四星圣遗物×2】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3880.4997559189915", "7228.998810467949"] }, "type": "Feature", "properties": { "popTitle": "地灵龛 - 鹤观", "popupContent": "地灵龛内有一个【华丽宝箱】开启后可以获得\n【60冒险阅历】【40原石】【雷之印 ×10】\n【摩拉×5000】【紫色天赋书×2】【四星圣遗物×2】" }, "id": 2 }] }, 

@@ -1,0 +1,6 @@
+{ "geometry": { "type": "Point", "coordinates": ["847.50019526481", "-815.83319105936"] }, "type": "Feature", "properties": { "popTitle": "「危危岛」的壁画", "popupContent": "在下方墙壁上" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-152.92677569739", "-2560.0806609022"] }, "type": "Feature", "properties": { "popTitle": "「破破岛」的壁画", "popupContent": "" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["744.33786916314", "-3275.9956078817"] }, "type": "Feature", "properties": { "popTitle": "「无名岛屿」壁画", "popupContent": "" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1464.9882841116", "-3050.5549014793"] }, "type": "Feature", "properties": { "popTitle": "「双双岛」的壁画", "popupContent": "" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1522.6597876592", "-3353.3770206864"] }, "type": "Feature", "properties": { "popTitle": "笔迹已经模糊的笔记", "popupContent": "在山洞中找到的笔记，是解开壁画任务的关键" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1980.8306748888", "-5104.4978039408"] }, "type": "Feature", "properties": { "popTitle": "「无名小岛」的壁画", "popupContent": "最终壁画" }, "id": 6 }] }, 

@@ -1,0 +1,2 @@
+{ "geometry": { "type": "Point", "coordinates": ["1516.5", "-3418.5"] }, "type": "Feature", "properties": { "popTitle": "白萝卜-群岛", "popupContent": "这有一根白萝卜" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1524.5", "-3415.5"] }, "type": "Feature", "properties": { "popTitle": "白萝卜-群岛", "popupContent": "这有一根白萝卜" }, "id": 2 }] }, 

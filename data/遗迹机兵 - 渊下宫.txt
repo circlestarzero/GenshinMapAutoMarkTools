@@ -1,0 +1,2 @@
+{ "geometry": { "type": "Point", "coordinates": ["-1185.3297290883193", "1953"] }, "type": "Feature", "properties": { "popTitle": "遗迹机兵 - 渊下宫", "popupContent": "此处有一个【遗迹歼击者】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1161.3312301597007", "1990.9963399013814"] }, "type": "Feature", "properties": { "popTitle": "遗迹机兵 - 渊下宫", "popupContent": "此处有一个【遗迹歼击者】" }, "id": 2 }] }, null, null, null, null, null, null, null, 

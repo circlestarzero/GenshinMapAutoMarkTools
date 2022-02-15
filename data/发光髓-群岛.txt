@@ -1,0 +1,7 @@
+{ "geometry": { "type": "Point", "coordinates": ["526", "-878"] }, "type": "Feature", "properties": { "popTitle": "发光髓-群岛", "popupContent": "捕捉萤火虫获得一个发光髓" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["499", "-878.5"] }, "type": "Feature", "properties": { "popTitle": "发光髓-群岛", "popupContent": "捕捉萤火虫获得一个发光髓" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1485.5", "-3110"] }, "type": "Feature", "properties": { "popTitle": "发光髓-群岛", "popupContent": "捕捉萤火虫获得一个发光髓" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1454.5", "-3148"] }, "type": "Feature", "properties": { "popTitle": "发光髓-群岛", "popupContent": "捕捉萤火虫获得一个发光髓" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2220", "-2390"] }, "type": "Feature", "properties": { "popTitle": "发光髓-群岛", "popupContent": "捕捉萤火虫获得一个发光髓" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2213", "-2403.5"] }, "type": "Feature", "properties": { "popTitle": "发光髓-群岛", "popupContent": "捕捉萤火虫获得一个发光髓" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-270.5", "-759.33334350586"] }, "type": "Feature", "properties": { "popTitle": "发光髓-群岛", "popupContent": "捕捉萤火虫获得一个发光髓" }, "id": 7 }] }, 

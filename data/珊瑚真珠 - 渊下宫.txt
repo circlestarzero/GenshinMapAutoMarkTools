@@ -1,0 +1,5 @@
+{ "geometry": { "type": "Point", "coordinates": ["-1003.9984378815443", "3831.9956078816576"] }, "type": "Feature", "properties": { "popTitle": "珊瑚真珠 - 渊下宫", "popupContent": "此处有一颗珊瑚真珠" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1003.9992189407722", "3961.3309339725856"] }, "type": "Feature", "properties": { "popTitle": "珊瑚真珠 - 渊下宫", "popupContent": "此处有一颗珊瑚真珠" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-878", "4002.6661379485195"] }, "type": "Feature", "properties": { "popTitle": "珊瑚真珠 - 渊下宫", "popupContent": "此处有一颗珊瑚真珠" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-799.9984378815443", "3869.3352039759357"] }, "type": "Feature", "properties": { "popTitle": "珊瑚真珠 - 渊下宫", "popupContent": "此处有一颗珊瑚真珠" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-876.0015621184557", "3838"] }, "type": "Feature", "properties": { "popTitle": "珊瑚真珠 - 渊下宫", "popupContent": "此处有一颗珊瑚真珠" }, "id": 5 }] }, null, null, null, 

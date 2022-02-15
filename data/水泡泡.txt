@@ -1,0 +1,2 @@
+{ "geometry": { "type": "Point", "coordinates": ["1405.9976568223", "-2193.3577612806"] }, "type": "Feature", "properties": { "popTitle": "水泡泡", "popupContent": "跟随泡泡最终获得【5000摩拉】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["238.667927734", "-1999.995610291"] }, "type": "Feature", "properties": { "popTitle": "水泡泡", "popupContent": "跟随泡泡最终获得【15000摩拉】" }, "id": 2 }] }, 

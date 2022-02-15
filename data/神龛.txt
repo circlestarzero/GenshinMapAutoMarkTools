@@ -1,0 +1,6 @@
+{ "geometry": { "type": "Point", "coordinates": ["3555.666591403885", "4549.5"] }, "type": "Feature", "properties": { "popTitle": "神龛", "popupContent": "这里有一个二级雷屏障内的神龛\n【执望三千里】任务点\n参拜八酝岛全部神龛后可完成成就【荒岛朝圣指南】" }, "id": 9 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3447.5558457347943", "4235.436349220021"] }, "type": "Feature", "properties": { "popTitle": "神龛", "popupContent": "参拜八酝岛全部神龛后可完成成就【荒岛朝圣指南】" }, "id": 55 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3783.0403374444086", "4362.214516519207"] }, "type": "Feature", "properties": { "popTitle": "神龛", "popupContent": "参拜八酝岛全部神龛后可完成成就【荒岛朝圣指南】" }, "id": 56 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3594.5003905296144", "4471.669704906864"] }, "type": "Feature", "properties": { "popTitle": "神龛", "popupContent": "参拜八酝岛全部神龛后可完成成就【荒岛朝圣指南】" }, "id": 57 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3677.582401748543", "4401.910925488937"] }, "type": "Feature", "properties": { "popTitle": "神龛", "popupContent": "参拜八酝岛全部神龛后可完成成就【荒岛朝圣指南】" }, "id": 58 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3594.500195264807", "4390.333206312571"] }, "type": "Feature", "properties": { "popTitle": "神龛", "popupContent": "参拜八酝岛全部神龛后可完成成就【荒岛朝圣指南】" }, "id": 59 }] }, 

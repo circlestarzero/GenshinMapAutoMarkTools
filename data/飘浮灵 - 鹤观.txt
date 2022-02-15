@@ -1,0 +1,6 @@
+{ "geometry": { "type": "Point", "coordinates": ["4066.9168995628643", "7756.500365809081"] }, "type": "Feature", "properties": { "popTitle": "飘浮灵 - 鹤观", "popupContent": "此处有一个【接近出现】的【岩飘浮灵】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4072.3331980695393", "7750"] }, "type": "Feature", "properties": { "popTitle": "飘浮灵 - 鹤观", "popupContent": "此处有一个【接近出现】的【岩飘浮灵】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4075.6663961390786", "7757.666412625142"] }, "type": "Feature", "properties": { "popTitle": "飘浮灵 - 鹤观", "popupContent": "此处有一个【接近出现】的【岩飘浮灵】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4064.9770937550556", "8130.6089958527355"] }, "type": "Feature", "properties": { "popTitle": "飘浮灵 - 鹤观", "popupContent": "此处有一个【接近出现】的【岩飘浮灵】" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4069.1028992223846", "8132.358355686845"] }, "type": "Feature", "properties": { "popTitle": "飘浮灵 - 鹤观", "popupContent": "此处有一个【接近出现】的【岩飘浮灵】" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4065.102118163157", "8136.731755272118"] }, "type": "Feature", "properties": { "popTitle": "飘浮灵 - 鹤观", "popupContent": "此处有一个【接近出现】的【岩飘浮灵】" }, "id": 6 }] }, ] }, 

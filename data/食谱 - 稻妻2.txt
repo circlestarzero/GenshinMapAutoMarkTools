@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["5476.5", "5459.166062069269"] }, "type": "Feature", "properties": { "popTitle": "食谱 - 稻妻2", "popupContent": "完成【寝子是只猫 · 神社食谱】时，\n获得【食谱：活力喵饭】\n世界任务【寝子是只猫】系列（第4日）" }, "id": 1 }] }, ] }, 

@@ -1,0 +1,6 @@
+{ "geometry": { "type": "Point", "coordinates": ["-296.66402243786", "-1128.6671137369"] }, "type": "Feature", "properties": { "popTitle": "限时挑战", "popupContent": "※ 完成限时挑战击破爆桶最终出现可调查木箱获得【10000摩拉】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2111.3351965029", "-3621.3386781956"] }, "type": "Feature", "properties": { "popTitle": "限时挑战", "popupContent": "※ 完成限时挑战击破爆桶最终出现可调查木箱获得【10000摩拉】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2221.6672077218", "-1337.3378855646"] }, "type": "Feature", "properties": { "popTitle": "限时挑战", "popupContent": "※ 完成限时挑战击破爆桶最终出现可调查木箱获得【10000摩拉】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["413.99960947039", "-3305.3321241385"] }, "type": "Feature", "properties": { "popTitle": "限时挑战", "popupContent": "※ 完成限时挑战击破爆桶最终出现可调查木箱获得【10000摩拉】" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-424.66558455631", "-4061.3381931123"] }, "type": "Feature", "properties": { "popTitle": "限时挑战", "popupContent": "※ 完成限时挑战击破爆桶最终出现可调查木箱获得【5000摩拉】" }, "id": 5 }] }, 
+{ "geometry": { "type": "Point", "coordinates": ["956.16206978979", "-1472.5084136088"] }, "type": "Feature", "properties": { "popTitle": "限时挑战", "popupContent": "在海上完成限时挑战【20秒内引爆6个爆桶】\r\n获取的【10000摩拉】" }, "id": 1 }] }, 

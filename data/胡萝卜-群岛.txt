@@ -1,0 +1,6 @@
+{ "geometry": { "type": "Point", "coordinates": ["1529", "-3414"] }, "type": "Feature", "properties": { "popTitle": "胡萝卜-群岛", "popupContent": "这有一根胡萝卜" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1521.5", "-3418.5"] }, "type": "Feature", "properties": { "popTitle": "胡萝卜-群岛", "popupContent": "这有一根胡萝卜" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1339", "-3115"] }, "type": "Feature", "properties": { "popTitle": "胡萝卜-群岛", "popupContent": "这有一根胡萝卜" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1347", "-3122.5"] }, "type": "Feature", "properties": { "popTitle": "胡萝卜-群岛", "popupContent": "这有一根胡萝卜" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1342.5", "-3108"] }, "type": "Feature", "properties": { "popTitle": "胡萝卜-群岛", "popupContent": "这有一根胡萝卜" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1350", "-3113"] }, "type": "Feature", "properties": { "popTitle": "胡萝卜-群岛", "popupContent": "这有一根胡萝卜" }, "id": 6 }] }, 

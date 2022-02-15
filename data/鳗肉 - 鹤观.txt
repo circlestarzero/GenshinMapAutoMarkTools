@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["4595.675630032092", "7446.939778680149"] }, "type": "Feature", "properties": { "popTitle": "鳗肉 - 鹤观", "popupContent": "捕捉此处【藤纹陆鳗鳗】获得一块鳗肉" }, "id": 1 }] }, ] }, ] }, ] }, 

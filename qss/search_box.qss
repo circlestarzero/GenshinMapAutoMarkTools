@@ -1,0 +1,31 @@
+QLineEdit { 
+    background: white;
+    color: black;
+    border-radius: 20px;
+    font: 25 14pt "Microsoft YaHei";
+    padding-left: 0.7em;
+}
+QLabel{
+    font: 25 12pt "Microsoft YaHei";
+}
+QListView {
+	font: 25 14pt "Microsoft YaHei";
+	border: 15px solid white; /* 设置边框的大小，样式，颜色 */
+	border-radius: 10px;
+}
+QListView::item {
+    height: 30px;
+    font: 25 14pt "Microsoft YaHei";
+    border: 15px solid white; 
+}
+QListView::item:hover {
+	background-color: transparent;
+	padding: 10px;
+	border-left: 4px solid rgb(130, 130, 130);
+}
+QListView::item:selected {
+	background-color: transparent;
+	color: black;
+	padding: 10px;
+	border-left: 4px solid black;
+}

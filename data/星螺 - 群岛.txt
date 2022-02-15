@@ -1,0 +1,4 @@
+{ "geometry": { "type": "Point", "coordinates": ["2060.6683487871", "-1377.9996341909"] }, "type": "Feature", "properties": { "popTitle": "星螺 - 群岛", "popupContent": "这里有一个星螺" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2054.5005857944", "-1378.3339531839"] }, "type": "Feature", "properties": { "popTitle": "星螺 - 群岛", "popupContent": "这里有一个星螺" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2085.6978490348", "-1365.2812919296"] }, "type": "Feature", "properties": { "popTitle": "星螺 - 群岛", "popupContent": "这里有一个星螺" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2146.666036133", "-1254.3320936321"] }, "type": "Feature", "properties": { "popTitle": "星螺 - 群岛", "popupContent": "这里有一个星螺" }, "id": 4 }] }, 

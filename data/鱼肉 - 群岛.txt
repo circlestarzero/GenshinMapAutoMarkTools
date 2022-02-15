@@ -1,0 +1,7 @@
+{ "geometry": { "type": "Point", "coordinates": ["1255.592586042", "-1326.9923485157"] }, "type": "Feature", "properties": { "popTitle": "鱼肉 - 群岛", "popupContent": "这里有一条黄金鲈鱼" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1273.7628203684", "-1351.9832032887"] }, "type": "Feature", "properties": { "popTitle": "鱼肉 - 群岛", "popupContent": "这里有一条蓝鳍鲈鱼" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1284.8335733374", "-1366.0003658091"] }, "type": "Feature", "properties": { "popTitle": "鱼肉 - 群岛", "popupContent": "这里有一条黑背鲈鱼" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1284.667012457", "-1356.0007316182"] }, "type": "Feature", "properties": { "popTitle": "鱼肉 - 群岛", "popupContent": "这里有一条黑背鲈鱼" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1299.1671771983", "-3469.0003660099"] }, "type": "Feature", "properties": { "popTitle": "鱼肉 - 群岛", "popupContent": "这里有一条黑背鲈鱼" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1305.5526238655", "-3476.8982492584"] }, "type": "Feature", "properties": { "popTitle": "鱼肉 - 群岛", "popupContent": "这里有一条黑背鲈鱼" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1300.9998047352", "-3473.3327029644"] }, "type": "Feature", "properties": { "popTitle": "鱼肉 - 群岛", "popupContent": "这里有一条蓝鳍鲈鱼" }, "id": 7 }] }, 

@@ -1,0 +1,8 @@
+{ "geometry": { "type": "Point", "coordinates": ["1505.8933243683", "-3353.0538349476"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 海岛", "popupContent": "这里鸟窝里有两个鸟蛋" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1583.0001952648", "-3335.6671594965"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 海岛", "popupContent": "这里鸟窝里有两个鸟蛋" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["735.00039052962", "-3240.0007316182"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 海岛", "popupContent": "这里鸟窝里有两个鸟蛋" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["134.16522455024", "-3666.3324899476"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 海岛", "popupContent": "这里鸟窝里有两个鸟蛋" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1531.3335733374", "-3073.5003658091"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 海岛", "popupContent": "这里峭壁上鸟窝里有两个鸟蛋" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1455.5", "-3017.5"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 海岛", "popupContent": "这里山顶上鸟窝里有两个鸟蛋" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-95.5", "-3593"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 海岛", "popupContent": "这里半山腰悬崖边鸟窝里有两个鸟蛋" }, "id": 7 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-245.33363438446", "-2636.3365138475"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 海岛", "popupContent": "这里遗迹上的鸟窝里有两个鸟蛋" }, "id": 8 }] }, 

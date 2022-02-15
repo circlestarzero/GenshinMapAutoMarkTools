@@ -1,0 +1,5 @@
+{ "geometry": { "type": "Point", "coordinates": ["-259.83399439053", "-186.83029509313"] }, "type": "Feature", "properties": { "popTitle": "遗迹猎者 - 璃月", "popupContent": "这是一个遗迹猎者" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-757.09782947661", "21.356237031426"] }, "type": "Feature", "properties": { "popTitle": "遗迹猎者 - 璃月", "popupContent": "这是一个遗迹猎者" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1057.094683202", "-422.61193757859"] }, "type": "Feature", "properties": { "popTitle": "遗迹猎者 - 璃月", "popupContent": "这是一个遗迹猎者" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-941.54987491004", "-1294.3109963935"] }, "type": "Feature", "properties": { "popTitle": "遗迹猎者 - 璃月", "popupContent": "这是一个遗迹猎者" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["768.85625457809", "-1275.0852335157"] }, "type": "Feature", "properties": { "popTitle": "遗迹猎者 - 璃月", "popupContent": "这是一个遗迹猎者" }, "id": 5 }] }, 

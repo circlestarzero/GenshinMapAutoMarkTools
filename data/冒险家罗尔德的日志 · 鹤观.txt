@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["4889.075567480299", "7433.41476648428"] }, "type": "Feature", "properties": { "popTitle": "冒险家罗尔德的日志 · 鹤观", "popupContent": "完成世界任务【健忘大王历险记】后\n可在此拾取《冒险家罗尔德的日志 · 鹤观》" }, "id": 1 }] }, 

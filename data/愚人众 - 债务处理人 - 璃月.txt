@@ -1,0 +1,8 @@
+{ "geometry": { "type": "Point", "coordinates": ["1162", "-620"] }, "type": "Feature", "properties": { "popTitle": "愚人众 - 债务处理人 - 璃月", "popupContent": "这是一个【火】之债务处理人" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-823", "361"] }, "type": "Feature", "properties": { "popTitle": "愚人众 - 债务处理人 - 璃月", "popupContent": "这是一个【火】之债务处理人" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-849", "-180"] }, "type": "Feature", "properties": { "popTitle": "愚人众 - 债务处理人 - 璃月", "popupContent": "这是一个【火】之债务处理人" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1139", "-616"] }, "type": "Feature", "properties": { "popTitle": "愚人众 - 债务处理人 - 璃月", "popupContent": "这是一个【火】之债务处理人" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-707", "-663"] }, "type": "Feature", "properties": { "popTitle": "愚人众 - 债务处理人 - 璃月", "popupContent": "这是一个【火】之债务处理人" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["979", "-1458"] }, "type": "Feature", "properties": { "popTitle": "愚人众 - 债务处理人 - 璃月", "popupContent": "这是一个【火】之债务处理人" }, "id": 7 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-157", "-1097"] }, "type": "Feature", "properties": { "popTitle": "愚人众 - 债务处理人 - 璃月", "popupContent": "这是一个【火】之债务处理人" }, "id": 9 }, 
+{ "geometry": { "type": "Point", "coordinates": ["844.59337249971", "-2092.2476454049"] }, "type": "Feature", "properties": { "popTitle": "愚人众 - 债务处理人 - 璃月", "popupContent": "这是一个接近出现的【火】之债务处理人" }, "id": 10 }] }, 

@@ -1,0 +1,5 @@
+{ "geometry": { "type": "Point", "coordinates": ["4198.029574987372", "7304.955912379215"] }, "type": "Feature", "properties": { "popTitle": "遗迹人形 - 鹤观", "popupContent": "此处有一个【遗迹守卫者】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4080.5", "7840.5"] }, "type": "Feature", "properties": { "popTitle": "遗迹人形 - 鹤观", "popupContent": "此处怪物3日循环出现\n【第3日】此处有个【遗迹守卫】\n注：完成世界任务【要求特别多的作家】为【第1日】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4108.5", "7807"] }, "type": "Feature", "properties": { "popTitle": "遗迹人形 - 鹤观", "popupContent": "此处怪物3日循环出现\n【第3日】此处有个【遗迹守卫】\n注：完成世界任务【要求特别多的作家】为【第1日】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4115.5", "7830.5"] }, "type": "Feature", "properties": { "popTitle": "遗迹人形 - 鹤观", "popupContent": "此处怪物3日循环出现\n【第3日】此处有个【遗迹守卫】\n注：完成世界任务【要求特别多的作家】为【第1日】" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4049", "7199"] }, "type": "Feature", "properties": { "popTitle": "遗迹人形 - 鹤观", "popupContent": "此处怪物3日循环出现\n【第1日】此处有个不会动的【遗迹守卫】\n【第3日】此处有个【遗迹守卫】\n注：完成世界任务【要求特别多的作家】为【第1日】" }, "id": 5 }] }, 

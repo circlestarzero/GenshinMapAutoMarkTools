@@ -1,0 +1,4 @@
+{ "geometry": { "type": "Point", "coordinates": ["-1147.8027825449572", "3594.3865064140864"] }, "type": "Feature", "properties": { "popTitle": "深海龙蜥 - 渊下宫", "popupContent": "此处有一只深海龙蜥【原种】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1081.7898950676968", "3638.4026108480066"] }, "type": "Feature", "properties": { "popTitle": "深海龙蜥 - 渊下宫", "popupContent": "此处有一只深海龙蜥【原种】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1665.7578716393532", "3038.4004147888354"] }, "type": "Feature", "properties": { "popTitle": "深海龙蜥 - 渊下宫", "popupContent": "此处有一只深海龙蜥【吞雷】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1636.665706650462", "2966.667663045464"] }, "type": "Feature", "properties": { "popTitle": "深海龙蜥 - 渊下宫", "popupContent": "此处有一只深海龙蜥【吞雷】" }, "id": 4 }] }, null, null, null, null, null, null, null, 

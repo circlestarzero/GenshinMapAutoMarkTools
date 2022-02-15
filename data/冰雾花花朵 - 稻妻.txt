@@ -1,0 +1,7 @@
+{ "geometry": { "type": "Point", "coordinates": ["5885.3728520871", "3088.0691074098"] }, "type": "Feature", "properties": { "popTitle": "冰雾花花朵 - 稻妻", "popupContent": "此处有一株用【火元素】烧灼后可采集的【冰雾花花朵】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5814.2394557004", "3077.2479575436"] }, "type": "Feature", "properties": { "popTitle": "冰雾花花朵 - 稻妻", "popupContent": "此处有一株用【火元素】烧灼后可采集的冰雾花花朵" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3738.4998047352", "4243.6660468161"] }, "type": "Feature", "properties": { "popTitle": "冰雾花花朵 - 稻妻", "popupContent": "此处有一株用【火元素】烧灼后可采集的【冰雾花花朵】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3737.5659995048", "4253.9052554482"] }, "type": "Feature", "properties": { "popTitle": "冰雾花花朵 - 稻妻", "popupContent": "此处有一株用【火元素】烧灼后可采集的冰雾花花朵" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3743.0670734612", "4252.4058041618"] }, "type": "Feature", "properties": { "popTitle": "冰雾花花朵 - 稻妻", "popupContent": "此处有一株用【火元素】烧灼后可采集的冰雾花花朵" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3634.7302629927", "4683.1909218335"] }, "type": "Feature", "properties": { "popTitle": "冰雾花花朵 - 稻妻", "popupContent": "此处有一株用【火元素】烧灼后可采集的冰雾花花朵" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3639.2311416844", "4685.1901902154"] }, "type": "Feature", "properties": { "popTitle": "冰雾花花朵 - 稻妻", "popupContent": "此处有一株用【火元素】烧灼后可采集的【冰雾花花朵】" }, "id": 7 }] }, 

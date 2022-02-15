@@ -1,0 +1,3 @@
+{ "geometry": { "type": "Point", "coordinates": ["510.50019526481", "-744.83541642026"] }, "type": "Feature", "properties": { "popTitle": "蜥蜴尾巴 - 群岛", "popupContent": "捕捉【红脚蜥】可以获得一个蜥蜴尾巴" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["566.40145838135", "-744.92723449943"] }, "type": "Feature", "properties": { "popTitle": "蜥蜴尾巴 - 群岛", "popupContent": "捕捉【红脚蜥】可以获得一个蜥蜴尾巴" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-285", "-736.5"] }, "type": "Feature", "properties": { "popTitle": "蜥蜴尾巴 - 群岛", "popupContent": "这只蜥蜴在旋涡里面的遗迹里" }, "id": 3 }] }, 

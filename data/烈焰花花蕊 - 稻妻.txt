@@ -1,0 +1,4 @@
+{ "geometry": { "type": "Point", "coordinates": ["3795.5494019962", "4213.9206194296"] }, "type": "Feature", "properties": { "popTitle": "烈焰花花蕊 - 稻妻", "popupContent": "这里有一株用【水/冰元素】攻击后可摘取的【烈焰花花蕊】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3323.3487063599", "4309.7203847177"] }, "type": "Feature", "properties": { "popTitle": "烈焰花花蕊 - 稻妻", "popupContent": "这里有一株用【水/冰元素】攻击后可摘取的【烈焰花花蕊】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3333.6666066657", "4313.1664126251"] }, "type": "Feature", "properties": { "popTitle": "烈焰花花蕊 - 稻妻", "popupContent": "这里有一株用【水/冰元素】攻击后可摘取的【烈焰花花蕊】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3318.3333933343", "4329.0003658091"] }, "type": "Feature", "properties": { "popTitle": "烈焰花花蕊 - 稻妻", "popupContent": "这里有一株用【水/冰元素】攻击后可摘取的烈焰花花蕊" }, "id": 4 }] }, 

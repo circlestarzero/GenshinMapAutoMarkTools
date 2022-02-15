@@ -1,0 +1,8 @@
+{ "geometry": { "type": "Point", "coordinates": ["1753.5005857944", "-1316.1675405588"] }, "type": "Feature", "properties": { "popTitle": "冰雾花 - 群岛", "popupContent": "这里有一朵冰雾花" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1754.4998047352", "-1296.6667784342"] }, "type": "Feature", "properties": { "popTitle": "冰雾花 - 群岛", "popupContent": "这里有一朵冰雾花" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1746.6628813726", "-1299.5003658091"] }, "type": "Feature", "properties": { "popTitle": "冰雾花 - 群岛", "popupContent": "这里有一朵冰雾花" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-48.000390529614", "-3590.3328252503"] }, "type": "Feature", "properties": { "popTitle": "冰雾花 - 群岛", "popupContent": "这里有一朵冰雾花" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1246.6671466748", "-3295.3342884866"] }, "type": "Feature", "properties": { "popTitle": "冰雾花 - 群岛", "popupContent": "这里有一朵冰雾花" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1243.3327922782", "-3305.665681007"] }, "type": "Feature", "properties": { "popTitle": "冰雾花 - 群岛", "popupContent": "这里有一朵冰雾花" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1770.5", "-3061"] }, "type": "Feature", "properties": { "popTitle": "冰雾花 - 群岛", "popupContent": "这里有一朵冰雾花" }, "id": 7 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-203", "-2463.5"] }, "type": "Feature", "properties": { "popTitle": "冰雾花 - 群岛", "popupContent": "这里有一朵冰雾花" }, "id": 8 }] }, 

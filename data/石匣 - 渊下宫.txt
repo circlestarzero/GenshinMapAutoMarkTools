@@ -1,0 +1,5 @@
+{ "geometry": { "type": "Point", "coordinates": ["6125.073029037809", "1153.909279348075"] }, "type": "Feature", "properties": { "popTitle": "石匣 - 渊下宫", "popupContent": "调查此处石匣获得【10000摩拉】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6420.794715640797", "1108.817827077989"] }, "type": "Feature", "properties": { "popTitle": "石匣 - 渊下宫", "popupContent": "调查此处石匣获得【10000摩拉】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1338.5461801268493", "-3328.405386450718"] }, "type": "Feature", "properties": { "popTitle": "石匣 - 渊下宫", "popupContent": "调查此处石匣获得【10000摩拉】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1366.5516475414443", "-3336.908497534544"] }, "type": "Feature", "properties": { "popTitle": "石匣 - 渊下宫", "popupContent": "调查【二层】此处石匣获得【10000摩拉】" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1448.111300939975", "-3413.7972305365493"] }, "type": "Feature", "properties": { "popTitle": "石匣 - 渊下宫", "popupContent": "调查【二层】此处石匣获得【10000摩拉】" }, "id": 5 }] }, null, null, null, null, null, null, null, 

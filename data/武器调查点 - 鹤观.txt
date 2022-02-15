@@ -1,0 +1,4 @@
+{ "geometry": { "type": "Point", "coordinates": ["4078.375292897211", "5849.416267611921"] }, "type": "Feature", "properties": { "popTitle": "武器调查点 - 鹤观", "popupContent": "调查此处获得1-2星武器" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3694.10589760335", "7559.464607971477"] }, "type": "Feature", "properties": { "popTitle": "武器调查点 - 鹤观", "popupContent": "调查此处获得1-2星武器" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4465.750097632404", "7323.166961338762"] }, "type": "Feature", "properties": { "popTitle": "武器调查点 - 鹤观", "popupContent": "调查此处获得1-2星武器" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4001.6825054856536", "8048.783471530851"] }, "type": "Feature", "properties": { "popTitle": "武器调查点 - 鹤观", "popupContent": "调查此处获得1-2星武器" }, "id": 4 }] }, ] }, ] }, 

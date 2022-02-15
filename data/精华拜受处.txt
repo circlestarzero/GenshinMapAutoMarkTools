@@ -1,0 +1,2 @@
+{ "geometry": { "type": "Point", "coordinates": ["5838.000061035156", "600.5035406979605"] }, "type": "Feature", "properties": { "popTitle": "精华拜受处", "popupContent": "点亮三角的机关" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2742.800018310547", "2799.294561112125"] }, "type": "Feature", "properties": { "popTitle": "精华拜受处", "popupContent": "点亮三角的机关" }, "id": 2 }] }, 

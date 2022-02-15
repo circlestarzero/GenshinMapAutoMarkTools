@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["-1849.3335122903102", "3463.9985359605525"] }, "type": "Feature", "properties": { "popTitle": "遗迹人形 - 渊下宫", "popupContent": "此处有一个【遗迹重机】" }, "id": 1 }] }, 

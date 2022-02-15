@@ -1,0 +1,3 @@
+{ "geometry": { "type": "Point", "coordinates": ["5776.6673724631", "3453.0299963446"] }, "type": "Feature", "properties": { "popTitle": "董色之庭", "popupContent": "相传在遥远的古代,高山比天空更高,大地比穹顶更大。直到明镜破碎,海洋升起。在传说中,远古的樱之庭与其他岛屿的联系便因此断绝了。" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3685.4941420557907", "4210.322613102448"] }, "type": "Feature", "properties": { "popTitle": "椛染之庭", "popupContent": "似乎永远静止在红叶衰落之刻的借景之庭。曾经失却的因缘、无法忘却的爱执,或许都会循着大地当中的脉络,凝结成庭间白树的果实吧。" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6397", "2378"] }, "type": "Feature", "properties": { "popTitle": "砂流之庭", "popupContent": "传说在书记已经全然泯灭的宙始，曾有愚王在万古的流沙之上梦想筑造供养白之神木的高庭。如今沙上之国已经归于死寂，但过往的执妄似乎仍然彷徨其中。" }, "id": 3 }] }, 

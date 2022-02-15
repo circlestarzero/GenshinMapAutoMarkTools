@@ -1,0 +1,8 @@
+{ "geometry": { "type": "Point", "coordinates": ["367.49960947039", "-2788.1697201601"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 璃月", "popupContent": "这里有一根白萝卜" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["371.33318280777", "-2786.8357822293"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 璃月", "popupContent": "这里有一根白萝卜" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["368.33379912573", "-2792.5040238999"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 璃月", "popupContent": "这里有一根白萝卜" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["371.33162068931", "-2792.3364985943"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 璃月", "popupContent": "这里有一根白萝卜" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-895.5", "-894.66717474972"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 璃月", "popupContent": "这里有一根白萝卜" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-328.66659140389", "-2025"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 璃月", "popupContent": "这里有一根白萝卜" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-324.66681719223", "-2030.0021948545"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 璃月", "popupContent": "这里有一根白萝卜" }, "id": 7 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-953", "-850"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 璃月", "popupContent": "这里有一根白萝卜" }, "id": 8 }] }, 

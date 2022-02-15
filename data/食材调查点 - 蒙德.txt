@@ -1,0 +1,4 @@
+{ "geometry": { "type": "Point", "coordinates": ["1766.0385647993771", "-4007.624375087317"] }, "type": "Feature", "properties": { "popTitle": "食材调查点 - 蒙德", "popupContent": "调查此处出现【1-2个】食材\n可获得【番茄】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1792.2802660450807", "-3989.552127793949"] }, "type": "Feature", "properties": { "popTitle": "食材调查点 - 蒙德", "popupContent": "调查此处出现【1-2个】食材\n可获得【土豆】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1809.033536730598", "-4001.631035849826"] }, "type": "Feature", "properties": { "popTitle": "食材调查点 - 蒙德", "popupContent": "调查此处出现【1-2个】食材\n可获得【白萝卜】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1648.6668171922292", "-3492.3342884866047"] }, "type": "Feature", "properties": { "popTitle": "食材调查点 - 蒙德", "popupContent": "调查此处出现【1-2个】食材\n可获得【卷心菜、土豆、白萝卜、小麦】" }, "id": 4 }] }, 

@@ -1,0 +1,2 @@
+{ "geometry": { "type": "Point", "coordinates": ["6609", "2701.5"] }, "type": "Feature", "properties": { "popTitle": "孔雀木-稻妻", "popupContent": "孔雀木【3个】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6612", "2711"] }, "type": "Feature", "properties": { "popTitle": "孔雀木-稻妻", "popupContent": "孔雀木【3个】" }, "id": 2 }] }, ] }, 

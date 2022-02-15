@@ -1,0 +1,5 @@
+{ "geometry": { "type": "Point", "coordinates": ["-1395.9469856049068", "-1966.0976710244513"] }, "type": "Feature", "properties": { "popTitle": "松木 - 璃月", "popupContent": "这里有一棵松树" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1327.9316573175593", "-1485.5707840570467"] }, "type": "Feature", "properties": { "popTitle": "松木 - 璃月", "popupContent": "这里有一棵松树" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1307.4276543890164", "-1548.0479209895248"] }, "type": "Feature", "properties": { "popTitle": "松木 - 璃月", "popupContent": "这里有一棵松树" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1362.2187088146825", "-1516.5262468015144"] }, "type": "Feature", "properties": { "popTitle": "松木 - 璃月", "popupContent": "这里有一棵松树" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1355.967488409639", "-1514.277069871945"] }, "type": "Feature", "properties": { "popTitle": "松木 - 璃月", "popupContent": "这里有一棵松树" }, "id": 5 }] }, 

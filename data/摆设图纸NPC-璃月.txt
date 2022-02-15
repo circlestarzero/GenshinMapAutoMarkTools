@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["-336.16623139781", "-3063.3346695489"] }, "type": "Feature", "properties": { "popTitle": "摆设图纸NPC-璃月", "popupContent": "在【路爷】处可以购买摆件图纸\n【「冒险家难逃之重」】\n【孤独而谨慎的冒险家】\n【朽木与磐石的对谈】" }, "id": 1 }] }, ] }, 

@@ -1,0 +1,5 @@
+{ "geometry": { "type": "Point", "coordinates": ["2095.8334131291", "-3670"] }, "type": "Feature", "properties": { "popTitle": "西风之鹰的庙宇", "popupContent": "这座遗迹中,曾经供祭着四风守护中，象征恩慈的西风之鹰。鹰的庙宇千年长久地守望着风起地，或许其中仍盘桓着悠远过去的风吧。" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2444.00025465", "-3032.8333435059"] }, "type": "Feature", "properties": { "popTitle": "南风之狮的庙宇", "popupContent": "人们曾经祭祀南风之狮的殿堂,如今已经废弃。有民俗传说说,乘着和风在蒙德大地四处生长的蒲公英,象征着南风之狮广布的恩泽。" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2719.8334131291", "-3706.5"] }, "type": "Feature", "properties": { "popTitle": "北风之狼的庙宇", "popupContent": "此地曾是祭祀四风守护中北风之狼的庙宇。如今祭祀已经不再,庙宇也被魔物侵占，但相传狼之灵仍在某处守望着蒙德一望无际的绿野。" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["350.83366777907", "-4358"] }, "type": "Feature", "properties": { "popTitle": "深入风龙废墟", "popupContent": "高耸而破碎的尖塔无声地述说着哀痛的过往。盘踞其中的除了回忆与思念,还有狂啸的暴风…" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3024.00025465", "-2587.5"] }, "type": "Feature", "properties": { "popTitle": "鹰之门", "popupContent": " 无论是骄傲的鹰,还是崇高的灵魂,都向往着冷冽清净的高处。过去如鹰一般脾睨尘世的人,往往能在鹰之门中找到自己的寂静深空。" }, "id": 5 }] }, 

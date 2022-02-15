@@ -1,0 +1,8 @@
+{ "geometry": { "type": "Point", "coordinates": ["6293.8579814383", "2768.7370137777"] }, "type": "Feature", "properties": { "popTitle": "萤术士  - 稻妻", "popupContent": "这里有一位【冰】萤术士" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6390.6679582575", "2808.8339226775"] }, "type": "Feature", "properties": { "popTitle": "萤术士  - 稻妻", "popupContent": "这里有一位【冰】萤术士" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6514.4336770745", "2766.9327216356"] }, "type": "Feature", "properties": { "popTitle": "萤术士  - 稻妻", "popupContent": "这里有一位【雷】萤术士" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3926.5439345816", "4406.8939153667"] }, "type": "Feature", "properties": { "popTitle": "萤术士  - 稻妻", "popupContent": "这里有一位【冰】萤术士" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4640.0449109056", "4061.8822094761"] }, "type": "Feature", "properties": { "popTitle": "萤术士  - 稻妻", "popupContent": "这里下方有一位【冰】萤术士" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4651.812467687198", "4393.697356484196"] }, "type": "Feature", "properties": { "popTitle": "萤术士  - 稻妻", "popupContent": "这里下方有一位【冰】萤术士" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6321", "2645"] }, "type": "Feature", "properties": { "popTitle": "萤术士  - 稻妻", "popupContent": "这里下方有一位【雷】萤术士" }, "id": 7 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4664.973086073758", "4310.651314124727"] }, "type": "Feature", "properties": { "popTitle": "萤术士  - 稻妻", "popupContent": "这里下方有一位【雷】萤术士" }, "id": 8 }] }, 
