@@ -5,7 +5,7 @@
 - 待更新渊下宫
 - English version is to be updated
 ## 如何使用
-### realse 中下载文件并解压，以管理员权限运行main.exe
+### release 中下载文件并解压，以管理员权限运行main.exe
 ### 代码运行环境
 - 配置python 3.7+opencv3.1~3.3(之后版本因为专利问题surf使用起来很麻烦)+opencv contrib
 - 安装项目中所需的其他库pyqt5,keboard...
