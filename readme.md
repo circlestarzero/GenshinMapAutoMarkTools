@@ -32,4 +32,4 @@
 [空荧酒馆原神地图](https://github.com/kongying-tavern/yuan-shen-map)
 ## 配置快捷键
 - config.in中每行冒号后修改  
-- 具体支持快捷键参考python keboard模块
+- 具体支持快捷键参考python keyboard
