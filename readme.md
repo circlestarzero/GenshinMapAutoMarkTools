@@ -10,7 +10,7 @@
 ### 代码运行环境
 - 配置python 3.7+opencv3.1~3.3(之后版本因为专利问题surf使用起来很麻烦)+opencv contrib
 - 安装项目中所需的其他库pyqt5,keboard...
-- 运行main.py
+- 以管理员权限运行main.py
 ## 功能
 - 搜索地图资源并标点
 - 删除当前地图界面所有标点
