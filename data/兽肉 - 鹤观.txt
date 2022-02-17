@@ -1,0 +1,6 @@
+{ "geometry": { "type": "Point", "coordinates": ["4775.166411400847", "7552.16693102574"] }, "type": "Feature", "properties": { "popTitle": "兽肉 - 鹤观", "popupContent": "击杀此处【松鼠】掉落【1块】兽肉" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4379.499902367596", "7612.833755026191"] }, "type": "Feature", "properties": { "popTitle": "兽肉 - 鹤观", "popupContent": "击杀此处【野猪】掉落【2块】兽肉" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3864.288515983176", "7431.867036025898"] }, "type": "Feature", "properties": { "popTitle": "兽肉 - 鹤观", "popupContent": "击杀此处【红狐】掉落【2块】兽肉" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3839.51259458005", "7345.473387389406"] }, "type": "Feature", "properties": { "popTitle": "兽肉 - 鹤观", "popupContent": "击杀此处【野猪】掉落【2块】兽肉" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4868.75", "7228.5"] }, "type": "Feature", "properties": { "popTitle": "兽肉 - 鹤观", "popupContent": "击杀此处【野猪】掉落【2块】兽肉" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4878.75", "7417.5"] }, "type": "Feature", "properties": { "popTitle": "兽肉 - 鹤观", "popupContent": "击杀此处【松鼠】掉落【1块】兽肉" }, "id": 6 }] }, 

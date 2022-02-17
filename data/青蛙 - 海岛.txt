@@ -1,0 +1,3 @@
+{ "geometry": { "type": "Point", "coordinates": ["-331.44434953001", "-2905.0852335157"] }, "type": "Feature", "properties": { "popTitle": "青蛙 - 海岛", "popupContent": "这里有一只蓝蛙" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-323.94288504396", "-2895.0888916065"] }, "type": "Feature", "properties": { "popTitle": "青蛙 - 海岛", "popupContent": "这里有一只蓝蛙" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-339.93530024002", "-2898.9350841414"] }, "type": "Feature", "properties": { "popTitle": "青蛙 - 海岛", "popupContent": "这里有一只蓝蛙" }, "id": 3 }] }, 

@@ -1,0 +1,5 @@
+{ "geometry": { "type": "Point", "coordinates": ["4765.833303332827", "7550.125"] }, "type": "Feature", "properties": { "popTitle": "松果 - 鹤观", "popupContent": "此处【树洞内】有一个松果" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4765.916745483375", "7552.999633990139"] }, "type": "Feature", "properties": { "popTitle": "松果 - 鹤观", "popupContent": "此处【树洞内】有一个松果" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4769.207961619415", "7550.708274875751"] }, "type": "Feature", "properties": { "popTitle": "松果 - 鹤观", "popupContent": "此处【地上】有一个松果" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4878.5", "7414.25"] }, "type": "Feature", "properties": { "popTitle": "松果 - 鹤观", "popupContent": "此处【地上】有一个松果" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4879.75", "7414.5"] }, "type": "Feature", "properties": { "popTitle": "松果 - 鹤观", "popupContent": "此处【地上】有一个松果" }, "id": 5 }] }, 

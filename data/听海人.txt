@@ -1,0 +1,6 @@
+{ "geometry": { "type": "Point", "coordinates": ["1374.1607029361", "-3364.8279753649"] }, "type": "Feature", "properties": { "popTitle": "听海人", "popupContent": "拾取海螺触发任务" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["33.338274954521", "-3582.8221192072"] }, "type": "Feature", "properties": { "popTitle": "狂风，听谁号令", "popupContent": "到达此处无名小岛触发" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["735.57927751163", "-3253.4002623127"] }, "type": "Feature", "properties": { "popTitle": "自外而来", "popupContent": "到半艘断船上调查获得木片触发" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["545.56033682536", "-701.93302019529"] }, "type": "Feature", "properties": { "popTitle": "归乡路漫漫", "popupContent": "在此处跟随仙灵触发" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1524.8318464777", "-3333.3320014734"] }, "type": "Feature", "properties": { "popTitle": "雾与风的旅行", "popupContent": "击碎下方山洞中的巨岩进入密室触发" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["799.38102268548", "-804.71198076749"] }, "type": "Feature", "properties": { "popTitle": "岛与海的彼端", "popupContent": "此处发现第一个壁画触发任务\n完成后可获得【350阅历、40原石、大经验书×3、精锻用魔矿×6、3万摩拉】" }, "id": 6 }] }, 

@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["1590.083596230037", "-3748.08210888533"] }, "type": "Feature", "properties": { "popTitle": "摆设图纸NPC-蒙德", "popupContent": "在【歌德】处可以购买摆设图纸\n【枯木方向标】\n【硬顶避雷帐篷】\n【简易单人帐篷】\n【冒险家的临时营地】" }, "id": 1 }] }, 

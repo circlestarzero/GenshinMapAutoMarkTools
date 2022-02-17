@@ -1,0 +1,2 @@
+{ "geometry": { "type": "Point", "coordinates": ["-263", "-691.5"] }, "type": "Feature", "properties": { "popTitle": "岩龙蜥 - 璃月", "popupContent": "这是首个标上地图的『岩龙蜥』" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1179", "-950.5"] }, "type": "Feature", "properties": { "popTitle": "岩龙蜥 - 璃月", "popupContent": "这里有一只『岩龙蜥』" }, "id": 2 }] }, 

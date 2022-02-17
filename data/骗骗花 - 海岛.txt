@@ -1,0 +1,3 @@
+{ "geometry": { "type": "Point", "coordinates": ["1406", "-3192"] }, "type": "Feature", "properties": { "popTitle": "骗骗花 - 海岛", "popupContent": "这里有一只调查甜甜花出现的冰霜骗骗花" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1969", "-2857.5"] }, "type": "Feature", "properties": { "popTitle": "骗骗花 - 海岛", "popupContent": "这里有一只调查薄荷出现的冰霜骗骗花" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1938.5", "-1487.5"] }, "type": "Feature", "properties": { "popTitle": "骗骗花 - 海岛", "popupContent": "这里有一只调查薄荷出现的冰霜骗骗花" }, "id": 3 }] }, 

@@ -1,0 +1,4 @@
+{ "geometry": { "type": "Point", "coordinates": ["6607.5", "2754"] }, "type": "Feature", "properties": { "popTitle": "御伽木-稻妻", "popupContent": "御伽木【3个】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6601", "2802"] }, "type": "Feature", "properties": { "popTitle": "御伽木-稻妻", "popupContent": "御伽木【3个】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6593", "2811"] }, "type": "Feature", "properties": { "popTitle": "御伽木-稻妻", "popupContent": "御伽木【3个】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6581.5", "2830.5"] }, "type": "Feature", "properties": { "popTitle": "御伽木-稻妻", "popupContent": "御伽木【3个】" }, "id": 4 }] }, ] }, ] }, 

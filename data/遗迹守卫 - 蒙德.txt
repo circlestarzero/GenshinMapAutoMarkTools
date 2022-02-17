@@ -1,0 +1,7 @@
+{ "geometry": { "type": "Point", "coordinates": ["2844", "-3964"] }, "type": "Feature", "properties": { "popTitle": "遗迹守卫 - 蒙德", "popupContent": "这是一个遗迹守卫" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["280.89125688329", "-4401.766288663"] }, "type": "Feature", "properties": { "popTitle": "遗迹守卫 - 蒙德", "popupContent": "这是一个遗迹守卫" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["521.41809853868", "-4195.2926269167"] }, "type": "Feature", "properties": { "popTitle": "遗迹守卫 - 蒙德", "popupContent": "这是一个遗迹守卫" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2842.9116093473", "-4632.2481811135"] }, "type": "Feature", "properties": { "popTitle": "遗迹守卫 - 蒙德", "popupContent": "这是一个遗迹守卫" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3606.3347449262", "-4390.995610291"] }, "type": "Feature", "properties": { "popTitle": "遗迹守卫 - 蒙德", "popupContent": "这是一个遗迹守卫" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1015.9030554131", "-4442.4125622435"] }, "type": "Feature", "properties": { "popTitle": "遗迹守卫 - 蒙德", "popupContent": "这是一个遗迹守卫" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2127.33984375", "-1531.55078125"] }, "type": "Feature", "properties": { "popTitle": "遗迹重机 - 蒙德", "popupContent": "这是一个【遗迹重机】" }, "id": 7 }] }, 

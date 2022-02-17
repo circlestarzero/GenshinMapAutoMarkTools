@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["4151.034220157422", "7649.94659187427"] }, "type": "Feature", "properties": { "popTitle": "发光髓 - 鹤观", "popupContent": "捕捉【内部】此处萤火虫获得一个发光髓" }, "id": 1 }] }, 

@@ -1,0 +1,6 @@
+{ "geometry": { "type": "Point", "coordinates": ["-245.99960947039", "-2719.6635014057"] }, "type": "Feature", "properties": { "popTitle": "烈焰花 - 群岛", "popupContent": "这里有一朵烈焰花" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["132.16662192742", "-2647.6671594965"] }, "type": "Feature", "properties": { "popTitle": "烈焰花 - 群岛", "popupContent": "这里有一朵烈焰花" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["137", "-2644.6675100524"] }, "type": "Feature", "properties": { "popTitle": "烈焰花 - 群岛", "popupContent": "这里有一朵烈焰花" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1823.3337991257", "-1472.0003658091"] }, "type": "Feature", "properties": { "popTitle": "烈焰花 - 群岛", "popupContent": "这里有一朵烈焰花" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2025.1666219274", "-1210.5007316182"] }, "type": "Feature", "properties": { "popTitle": "烈焰花 - 群岛", "popupContent": "这里有一朵烈焰花" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1428", "-3203"] }, "type": "Feature", "properties": { "popTitle": "烈焰花 - 群岛", "popupContent": "这里有一朵烈焰花" }, "id": 6 }] }, 

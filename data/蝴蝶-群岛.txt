@@ -1,0 +1,8 @@
+{ "geometry": { "type": "Point", "coordinates": ["1867", "-1531"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶-群岛", "popupContent": "" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1509", "-3013.5"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶-群岛", "popupContent": "" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1503", "-3004.5"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶-群岛", "popupContent": "" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1484.5", "-3008"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶-群岛", "popupContent": "" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1487.5", "-3083.5"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶-群岛", "popupContent": "" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1429.5", "-3078.5"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶-群岛", "popupContent": "" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2222", "-2386.5"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶-群岛", "popupContent": "" }, "id": 7 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2214.5", "-2399.5"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶-群岛", "popupContent": "" }, "id": 8 }] }, 

@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["172.5801562032625", "-2492.0358492898736"] }, "type": "Feature", "properties": { "popTitle": "武器调查点 - 璃月", "popupContent": "调查此处获得【1-2星武器】" }, "id": 1 }] }, 

@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["2031.1439101627393", "-2174.2414339930265"] }, "type": "Feature", "properties": { "popTitle": "大雪猪王 - 龙脊雪山", "popupContent": "融化此处全部雪猪的冰块后出现【大雪猪王】" }, "id": 1 }] }, 

@@ -1,0 +1,7 @@
+{ "geometry": { "type": "Point", "coordinates": ["5753.0560409996015", "5056.379984115232"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶翅膀 - 稻妻2", "popupContent": "捕捉此处蝴蝶获得一个蝴蝶翅膀" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5762.738741750061", "5059.729880500581"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶翅膀 - 稻妻2", "popupContent": "捕捉此处蝴蝶获得一个蝴蝶翅膀" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6097.061996576214", "4961.3953786030215"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶翅膀 - 稻妻2", "popupContent": "捕捉此处蝴蝶获得一个蝴蝶翅膀" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6086.000195264807", "5025.833221565777"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶翅膀 - 稻妻2", "popupContent": "捕捉此处蝴蝶获得一个蝴蝶翅膀" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5604.046082494446", "5042.9048896391105"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶翅膀 - 稻妻2", "popupContent": "捕捉此处蝴蝶获得一个蝴蝶翅膀" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5611.2200115903615", "4898.693817799753"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶翅膀 - 稻妻2", "popupContent": "捕捉此处蝴蝶获得一个蝴蝶翅膀" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5560.5", "5046"] }, "type": "Feature", "properties": { "popTitle": "蝴蝶翅膀 - 稻妻2", "popupContent": "捕捉此处蝴蝶获得一个蝴蝶翅膀" }, "id": 7 }] }, ] }, 

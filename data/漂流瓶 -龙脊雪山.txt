@@ -1,0 +1,3 @@
+{ "geometry": { "type": "Point", "coordinates": ["2127.0721503461764", "-1544.6476039639183"] }, "type": "Feature", "properties": { "popTitle": "漂流瓶 -龙脊雪山", "popupContent": "拾取此处漂流瓶后可获得\n【200冒险阅历、30原石】、【某人的漂流瓶】\n可解锁稻妻世界任务【广海的守望】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1985.05740785325", "-1645.5709669615862"] }, "type": "Feature", "properties": { "popTitle": "漂流瓶 -龙脊雪山", "popupContent": "【第2处】漂流瓶" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1942.5555528375835", "-1810.5406048079185"] }, "type": "Feature", "properties": { "popTitle": "漂流瓶 -龙脊雪山", "popupContent": "【第1处】漂流瓶" }, "id": 3 }] }, 

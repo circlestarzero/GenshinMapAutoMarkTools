@@ -1,0 +1,3 @@
+{ "geometry": { "type": "Point", "coordinates": ["2997.6668171922292", "3208.3321546449515"] }, "type": "Feature", "properties": { "popTitle": "白铁矿 - 渊下宫", "popupContent": "此处下方山洞内有1个白铁矿" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2997.833303332827", "3216.4164126251417"] }, "type": "Feature", "properties": { "popTitle": "白铁矿 - 渊下宫", "popupContent": "此处下方山洞内有1个白铁矿" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2998.2499023675964", "3222.2494512863796"] }, "type": "Feature", "properties": { "popTitle": "白铁矿 - 渊下宫", "popupContent": "此处下方山洞内有1个白铁矿" }, "id": 3 }] }, null, null, null, null, null, null, null, 

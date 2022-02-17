@@ -1,0 +1,4 @@
+{ "geometry": { "type": "Point", "coordinates": ["-1643", "-2453"] }, "type": "Feature", "properties": { "popTitle": "狂风之核 - 璃月", "popupContent": "这是一只狂风之核" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1638", "-2445.5"] }, "type": "Feature", "properties": { "popTitle": "狂风之核 - 璃月", "popupContent": "这是一只狂风之核" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1399.5", "-2115.5"] }, "type": "Feature", "properties": { "popTitle": "狂风之核 - 璃月", "popupContent": "这是一只狂风之核" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1341.5", "-2060"] }, "type": "Feature", "properties": { "popTitle": "狂风之核 - 璃月", "popupContent": "需要站到这里才能出现这只狂风之核" }, "id": 4 }] }, 

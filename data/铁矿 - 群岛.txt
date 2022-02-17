@@ -1,0 +1,7 @@
+{ "geometry": { "type": "Point", "coordinates": ["2153.7157310264", "-1647.5"] }, "type": "Feature", "properties": { "popTitle": "铁矿 - 群岛", "popupContent": "此处接近山顶有一个铁矿" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2042.6683487871", "-2400.8333435059"] }, "type": "Feature", "properties": { "popTitle": "铁矿 - 群岛", "popupContent": "此处有一个铁矿" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2011.3343543966", "-2301.6666870117"] }, "type": "Feature", "properties": { "popTitle": "铁矿 - 群岛", "popupContent": "此处有一个铁矿" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2040.1663961391", "-2290.6666564941"] }, "type": "Feature", "properties": { "popTitle": "铁矿 - 群岛", "popupContent": "此处有一个铁矿" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1531.3334085961", "-3070.6667936874"] }, "type": "Feature", "properties": { "popTitle": "铁矿 - 群岛", "popupContent": "此处有一个铁矿" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1549.5509641146", "-3060.9710705762"] }, "type": "Feature", "properties": { "popTitle": "铁矿 - 群岛", "popupContent": "此处有一个铁矿" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1555.2187576309", "-3034.9805816123"] }, "type": "Feature", "properties": { "popTitle": "铁矿 - 群岛", "popupContent": "此处有一个铁矿" }, "id": 7 }] }, 

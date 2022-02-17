@@ -1,0 +1,5 @@
+{ "geometry": { "type": "Point", "coordinates": ["1080.3727298644299", "4464.499987579153"] }, "type": "Feature", "properties": { "popTitle": "冰雾花", "popupContent": "此处有一朵冰雾花" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1272.1670124570364", "4502.00073161816"] }, "type": "Feature", "properties": { "popTitle": "冰雾花", "popupContent": "此处有一朵冰雾花" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1272.6669819334993", "4494.666793687429"] }, "type": "Feature", "properties": { "popTitle": "冰雾花", "popupContent": "此处有一朵冰雾花" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5586.56189894381", "5455.4083648253745"] }, "type": "Feature", "properties": { "popTitle": "冰雾花", "popupContent": "此处有一朵冰雾花" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1308.5", "3915.8328557566983"] }, "type": "Feature", "properties": { "popTitle": "冰雾花", "popupContent": "此处有一朵冰雾花" }, "id": 5 }] }, ] }, 

@@ -1,0 +1,2 @@
+{ "geometry": { "type": "Point", "coordinates": ["-1158.5753722154918", "2172.213017739581"] }, "type": "Feature", "properties": { "popTitle": "晶核 - 渊下宫", "popupContent": "捕捉此处【雷晶蝶】获得一个晶核" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-1140.499414205579", "2161.5007320197237"] }, "type": "Feature", "properties": { "popTitle": "晶核 - 渊下宫", "popupContent": "捕捉此处【雷晶蝶】获得一个晶核" }, "id": 2 }] }, null, null, null, null, null, null, null, 

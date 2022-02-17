@@ -1,0 +1,3 @@
+{ "geometry": { "type": "Point", "coordinates": ["2899.7850500328514", "2493.0157384240592"] }, "type": "Feature", "properties": { "popTitle": "蛇心的苏生之辔碎片", "popupContent": "这是一个完成探索任务出现的【精致的宝箱】\n内有【5原石、2雷之印】、【蛇心的苏生之辔碎片】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2052.5185989728643", "-111.60130086144727"] }, "type": "Feature", "properties": { "popTitle": "狭间的苏生之辔碎片", "popupContent": "这是一个【完成解密进入密室内】开启的【精致的宝箱】\n内有【5原石、2雷之印】【狭间的苏生之辔碎片】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6278.575665112701", "1343.6085219240313"] }, "type": "Feature", "properties": { "popTitle": "庙前的苏生之辔碎片", "popupContent": "这是一个完成世界任务解锁的【精致的宝箱】\n内有【5原石、2雷之印】【庙前的苏生之辔碎片】" }, "id": 3 }] }, null, null, null, null, null, null, null, 

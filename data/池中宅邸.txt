@@ -1,0 +1,2 @@
+{ "geometry": { "type": "Point", "coordinates": ["2031.5", "3991"] }, "type": "Feature", "properties": { "popTitle": "池中宅邸", "popupContent": "据说在月光更加明亮的岁月中,池中尚并未灌入海水,将府邸的入口封锁。据说过去,月光会如同水银般盈满井户。" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6605", "3643"] }, "type": "Feature", "properties": { "popTitle": "鸣神岛 · 天守", "popupContent": "主宰稻妻的雷电将军的居所。\n也是进行「御前决斗」最为合适的场地。" }, "id": 0 }] }, ] }, 

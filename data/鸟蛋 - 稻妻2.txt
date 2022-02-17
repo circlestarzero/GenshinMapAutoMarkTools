@@ -1,0 +1,3 @@
+{ "geometry": { "type": "Point", "coordinates": ["5706.89449595716", "5048.900499930147"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 稻妻2", "popupContent": "此处鸟窝里有【2个】鸟蛋" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5481.903575770684", "5524.3683087310765"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 稻妻2", "popupContent": "此处树上的鸟窝里有【2个】鸟蛋" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5551.202453019501", "5081.5574015192"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 稻妻2", "popupContent": "此处船顶的鸟窝里有【2个】鸟蛋" }, "id": 3 }] }, 

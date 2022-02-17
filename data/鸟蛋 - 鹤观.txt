@@ -1,0 +1,6 @@
+{ "geometry": { "type": "Point", "coordinates": ["4367.916786668692", "7260.4998170954605"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 鹤观", "popupContent": "此处【遗迹残垣上】的鸟窝中有2个鸟蛋" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3910.3827800687413", "7746.904523830031"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 鹤观", "popupContent": "此处【树桩上】的鸟窝中有2个鸟蛋" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4831.5", "7446.6676325167155"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 鹤观", "popupContent": "此处【树桩上】的鸟窝中有2个鸟蛋" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4015.6648492823915", "8093.330660902215"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 鹤观", "popupContent": "此处【遗迹废墟上】的鸟窝中有2个鸟蛋" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4126.549499628568", "7317.939275692663"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 鹤观", "popupContent": "此处【树上】的鸟窝中有2个鸟蛋" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4147.385709040846", "7363.576972304998"] }, "type": "Feature", "properties": { "popTitle": "鸟蛋 - 鹤观", "popupContent": "此处【树上】的鸟窝中有2个鸟蛋" }, "id": 6 }] }, 

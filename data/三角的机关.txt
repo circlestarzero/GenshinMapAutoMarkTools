@@ -1,0 +1,4 @@
+{ "geometry": { "type": "Point", "coordinates": ["5861", "608.7652126995699"] }, "type": "Feature", "properties": { "popTitle": "三角的机关", "popupContent": "于常夜，经由精华拜受处点亮，于白夜，可攻击起效。" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6318", "-366.4004176480812"] }, "type": "Feature", "properties": { "popTitle": "三角的机关", "popupContent": "于白夜，自行点亮，攻击起效。" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6316", "-327.42201364977154"] }, "type": "Feature", "properties": { "popTitle": "三角的机关", "popupContent": "于白夜，自行点亮，攻击起效。" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5886", "534.5780778522658"] }, "type": "Feature", "properties": { "popTitle": "三角的机关", "popupContent": "于常夜，经由精华拜受处点亮，可攻击。" }, "id": 4 }] }, 

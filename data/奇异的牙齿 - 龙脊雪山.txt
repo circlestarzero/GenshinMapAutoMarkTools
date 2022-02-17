@@ -1,0 +1,4 @@
+{ "geometry": { "type": "Point", "coordinates": ["2231.159140817683", "-1903.1990001397062"] }, "type": "Feature", "properties": { "popTitle": "奇异的牙齿 - 龙脊雪山", "popupContent": "此处有一颗【奇异的牙齿】\n完成世界任务【腐殖之牙】后可用于打造【龙脊长枪】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1583.0647302835114", "-2590.081941233997"] }, "type": "Feature", "properties": { "popTitle": "奇异的牙齿 - 龙脊雪山", "popupContent": "此处有一颗【奇异的牙齿】\n完成世界任务【腐殖之牙】后可用于打造【龙脊长枪】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1455.0419819334993", "-2840.129298256694"] }, "type": "Feature", "properties": { "popTitle": "奇异的牙齿 - 龙脊雪山", "popupContent": "此处有一颗【奇异的牙齿】\n完成世界任务【腐殖之牙】后可用于打造【龙脊长枪】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1236.563070532652", "-2606.582855756698"] }, "type": "Feature", "properties": { "popTitle": "奇异的牙齿 - 龙脊雪山", "popupContent": "此处有一颗【奇异的牙齿】\n完成世界任务【腐殖之牙】后可用于打造【龙脊长枪】" }, "id": 4 }] }, 

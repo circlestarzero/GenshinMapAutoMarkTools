@@ -1,0 +1,4 @@
+{ "geometry": { "type": "Point", "coordinates": ["6481.0583841773", "2319.4131203434"] }, "type": "Feature", "properties": { "popTitle": "债务处理人 - 稻妻", "popupContent": "此处有一位火之债务处理人" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4699.1667866687", "4318.1667784342"] }, "type": "Feature", "properties": { "popTitle": "债务处理人 - 稻妻", "popupContent": "此处下方有一位火之债务处理人" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4671.5513546442", "4346.933971461"] }, "type": "Feature", "properties": { "popTitle": "债务处理人 - 稻妻", "popupContent": "此处有一位火之债务处理人" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4860.613650888967", "4115.193640471314"] }, "type": "Feature", "properties": { "popTitle": "债务处理人 - 稻妻", "popupContent": "此处有一位火之债务处理人" }, "id": 4 }] }, 

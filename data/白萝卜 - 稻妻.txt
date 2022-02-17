@@ -1,0 +1,8 @@
+{ "geometry": { "type": "Point", "coordinates": ["3404.0545765135494", "4163"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 稻妻", "popupContent": "这里有一棵白萝卜" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4844.833573337384", "3157"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 稻妻", "popupContent": "这里有一棵白萝卜" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4849.166786668693", "3156.3333435058594"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 稻妻", "popupContent": "这里有一棵白萝卜" }, "id": 3 }] }, 
+{ "geometry": { "type": "Point", "coordinates": ["5861.379686355367", "5025.553011810236"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 稻妻", "popupContent": "此处有【1根】白萝卜" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5861.879783987772", "5030.051365669373"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 稻妻", "popupContent": "此处有【1根】白萝卜" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1630.9183182636107", "4524.917510052383"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 稻妻", "popupContent": "此处有【1根】白萝卜" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1638.9198803820664", "4516.587245465662"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 稻妻", "popupContent": "此处有【1根】白萝卜" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1643.1663961390786", "4521.5"] }, "type": "Feature", "properties": { "popTitle": "白萝卜 - 稻妻", "popupContent": "此处有【1根】白萝卜" }, "id": 5 }] }, 

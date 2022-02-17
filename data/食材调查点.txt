@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["1086.8022699211942", "-195.68956257967693"] }, "type": "Feature", "properties": { "popTitle": "食材调查点", "popupContent": "调查此处出现【1-2个】食材\n可出现【】" }, "id": 1 }] }, 

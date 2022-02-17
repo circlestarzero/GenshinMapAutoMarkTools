@@ -1,0 +1,5 @@
+{ "geometry": { "type": "Point", "coordinates": ["2065.8806436022", "-2815.1583800786"] }, "type": "Feature", "properties": { "popTitle": "盗宝团 - 蒙德", "popupContent": "这里有【4位】盗宝团成员" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1621.9126861077", "-2870.3983355821"] }, "type": "Feature", "properties": { "popTitle": "盗宝团 - 蒙德", "popupContent": "这里有【2个】盗宝团成员" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1679.0001952648072", "-2858.3350353579726"] }, "type": "Feature", "properties": { "popTitle": "盗宝团 - 蒙德", "popupContent": "这里有【2位】盗宝团成员" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1876.3910117141713", "-2768.253078870768"] }, "type": "Feature", "properties": { "popTitle": "盗宝团 - 蒙德", "popupContent": "这里有【2个】盗宝团成员" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1679.5", "-2871.1675100523826"] }, "type": "Feature", "properties": { "popTitle": "盗宝团 - 蒙德", "popupContent": "这里有【3位】盗宝团成员" }, "id": 5 }] }, 

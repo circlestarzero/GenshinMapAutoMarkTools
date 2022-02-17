@@ -1,0 +1,2 @@
+{ "geometry": { "type": "Point", "coordinates": ["5639.500210526576", "4987.333206312571"] }, "type": "Feature", "properties": { "popTitle": "蘑菇 - 稻妻2", "popupContent": "此处【地下洞穴入口】有一朵蘑菇" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5639.666606665654", "4990.333221565777"] }, "type": "Feature", "properties": { "popTitle": "蘑菇 - 稻妻2", "popupContent": "此处【地下洞穴入口】有一朵蘑菇" }, "id": 2 }] }, 

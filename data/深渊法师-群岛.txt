@@ -1,0 +1,3 @@
+{ "geometry": { "type": "Point", "coordinates": ["1632.5", "-3569.5"] }, "type": "Feature", "properties": { "popTitle": "深渊法师-群岛", "popupContent": "此处有一个【冰深渊法师】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-187.44298267636", "-2650.5"] }, "type": "Feature", "properties": { "popTitle": "深渊法师-群岛", "popupContent": "此处有一个【水深渊法师】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["2064.3155479281", "-1186.3980002794"] }, "type": "Feature", "properties": { "popTitle": "深渊法师-群岛", "popupContent": "此处有一个【冰深渊法师】" }, "id": 3 }] }, 

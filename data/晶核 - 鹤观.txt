@@ -1,0 +1,6 @@
+{ "geometry": { "type": "Point", "coordinates": ["4146.199996948242", "7670.97478840853"] }, "type": "Feature", "properties": { "popTitle": "晶核 - 鹤观", "popupContent": "捕捉【内部】此处【雷晶蝶】获得一个晶核" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4142.700665112702", "7673.606160832362"] }, "type": "Feature", "properties": { "popTitle": "晶核 - 鹤观", "popupContent": "捕捉【内部】此处【雷晶蝶】获得一个晶核" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4150.202129598754", "7626.873262406869"] }, "type": "Feature", "properties": { "popTitle": "晶核 - 鹤观", "popupContent": "捕捉【内部】此处【雷晶蝶】获得一个晶核" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4153.249902367596", "7631.083579748254"] }, "type": "Feature", "properties": { "popTitle": "晶核 - 鹤观", "popupContent": "捕捉【内部】此处【雷晶蝶】获得一个晶核" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4112.166509033251", "7556.416786060825"] }, "type": "Feature", "properties": { "popTitle": "晶核 - 鹤观", "popupContent": "捕捉【内部】此处【雷晶蝶】获得一个晶核" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4131.284854768045", "7576.446500422"] }, "type": "Feature", "properties": { "popTitle": "晶核 - 鹤观", "popupContent": "捕捉【内部】此处【雷晶蝶】获得一个晶核" }, "id": 6 }] }, ] }, ] }, ] }, ] }, 

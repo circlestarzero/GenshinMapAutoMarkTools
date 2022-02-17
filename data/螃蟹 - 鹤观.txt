@@ -1,0 +1,6 @@
+{ "geometry": { "type": "Point", "coordinates": ["4033.1669819334993", "7878.832489947617"] }, "type": "Feature", "properties": { "popTitle": "螃蟹 - 鹤观", "popupContent": "此处有一只【将军蟹】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4004.8345496614193", "7881.168973288704"] }, "type": "Feature", "properties": { "popTitle": "螃蟹 - 鹤观", "popupContent": "此处有一只【将军蟹】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4024.5013668536485", "7888.168241670544"] }, "type": "Feature", "properties": { "popTitle": "螃蟹 - 鹤观", "popupContent": "此处有一只【将军蟹】" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3965.166591403885", "7877.500365809081"] }, "type": "Feature", "properties": { "popTitle": "螃蟹 - 鹤观", "popupContent": "此处有一只【将军蟹】" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["3975.3330180665007", "7881.000365809081"] }, "type": "Feature", "properties": { "popTitle": "螃蟹 - 鹤观", "popupContent": "此处有一只【薄红蟹】" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["4865.175408843736", "7302.060358498256"] }, "type": "Feature", "properties": { "popTitle": "螃蟹 - 鹤观", "popupContent": "此处有一只【薄红蟹】" }, "id": 6 }] }, 

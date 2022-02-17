@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["1820.833963867", "-3025"] }, "type": "Feature", "properties": { "popTitle": "债务处理人 - 蒙德", "popupContent": "这里有一个火之债务处理人\n（我有理由怀疑这是个逃兵233）" }, "id": 1 }] }, 

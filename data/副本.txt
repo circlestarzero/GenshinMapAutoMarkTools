@@ -1,0 +1,1 @@
+{ "geometry": { "type": "Point", "coordinates": ["3922.6499938964844", "5804.339312243999"] }, "type": "Feature", "properties": { "popTitle": "副本", "popupContent": "从四周的相位之门到达限时挑战的地方，完成3个限时挑战，解锁对应的雷方碑，然后点亮3个雷方碑，开启秘境。" }, "id": 1 }] }, ] }, ] }, ] }, 

@@ -1,0 +1,7 @@
+{ "geometry": { "type": "Point", "coordinates": ["1598.0811630508342", "4200.322796006989"] }, "type": "Feature", "properties": { "popTitle": "妖狸 - 稻妻2", "popupContent": "跟随此处妖狸最终调查【调查伪装的“神像”】获得1-2星圣遗物" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5649.333393334346", "5014.833587374858"] }, "type": "Feature", "properties": { "popTitle": "妖狸 - 稻妻2", "popupContent": "跟随此处草丛中妖狸最终【交互仙灵】获得1-2星圣遗物" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6689.5", "5787.5"] }, "type": "Feature", "properties": { "popTitle": "妖狸 - 稻妻2", "popupContent": "跟随此处妖狸最终【打碎假木桶】获得1-2星圣遗物" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6046.99746155751", "4809.166062069269"] }, "type": "Feature", "properties": { "popTitle": "妖狸 - 稻妻2", "popupContent": "跟随此处妖狸最终【点燃火据】调查获得1-2星圣遗物" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1494.8363070446821", "3922.83578222934"] }, "type": "Feature", "properties": { "popTitle": "妖狸 - 稻妻2", "popupContent": "这是一个一次性点位。\n跟随此处妖狸最终【激活一个伪装的雷元素方碑】获得1-2星圣遗物" }, "id": 5 }, 
+{ "geometry": { "type": "Point", "coordinates": ["1920.7384793763886", "4124.83332824707"] }, "type": "Feature", "properties": { "popTitle": "妖狸 - 稻妻2", "popupContent": "跟随此处妖狸最终【点亮雷灯】获得1-2星圣遗物" }, "id": 6 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5537.332822801694", "5023.999634190919"] }, "type": "Feature", "properties": { "popTitle": "妖狸 - 稻妻2", "popupContent": "跟随此处妖狸最终【点燃火把】获得1-2星圣遗物" }, "id": 7 }] }, 

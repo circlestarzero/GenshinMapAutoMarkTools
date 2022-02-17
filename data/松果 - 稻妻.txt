@@ -1,0 +1,6 @@
+{ "geometry": { "type": "Point", "coordinates": ["5107.7200268521", "3941.1486000039"] }, "type": "Feature", "properties": { "popTitle": "松果 - 稻妻", "popupContent": "这里有【1个】松果" }, "id": 1 }] }, 
+{ "geometry": { "type": "Point", "coordinates": ["5669.527141808168", "5252.891537607678"] }, "type": "Feature", "properties": { "popTitle": "松果 - 稻妻", "popupContent": "此处地上有一个松果" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5671.527532337783", "5252.391720512218"] }, "type": "Feature", "properties": { "popTitle": "松果 - 稻妻", "popupContent": "此处地上有一个松果" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5670.527337072977", "5255.390623084977"] }, "type": "Feature", "properties": { "popTitle": "松果 - 稻妻", "popupContent": "此处地上有一个松果" }, "id": 3 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5683.863284111581", "5242.062187543659"] }, "type": "Feature", "properties": { "popTitle": "松果 - 稻妻", "popupContent": "此处地上有一个松果" }, "id": 4 }, 
+{ "geometry": { "type": "Point", "coordinates": ["5684.863479376389", "5244.061455925497"] }, "type": "Feature", "properties": { "popTitle": "松果 - 稻妻", "popupContent": "此处地上有一个松果" }, "id": 5 }] }, 

@@ -1,0 +1,3 @@
+{ "geometry": { "type": "Point", "coordinates": ["6184.0005857944", "2234.1610596036"] }, "type": "Feature", "properties": { "popTitle": "遗迹重机 - 稻妻", "popupContent": "这里有一个【遗迹重机】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6109.000976324", "2278.1686227328"] }, "type": "Feature", "properties": { "popTitle": "遗迹重机 - 稻妻", "popupContent": "这里有一个【遗迹猎者】" }, "id": 2 }, 
+{ "geometry": { "type": "Point", "coordinates": ["6251.666411400847", "2417.6684322016863"] }, "type": "Feature", "properties": { "popTitle": "遗迹重机 - 稻妻", "popupContent": "这里有一个在山底，雷屏障内的【遗迹守卫】" }, "id": 3 }] }, 

@@ -1,0 +1,2 @@
+{ "geometry": { "type": "Point", "coordinates": ["3126.7000122070312", "2505.0697361007296"] }, "type": "Feature", "properties": { "popTitle": "钓鱼点 - 渊下宫", "popupContent": "此处（左侧下方向右穿过）有一个钓鱼点，可以钓到：\n果酿饵：【擒霞客(夜)】\n赤糜饵：【赤魔王(昼)】\n飞蝇假饵：【迪芙妲鳐】【佛玛洛鳐】" }, "id": 1 }, 
+{ "geometry": { "type": "Point", "coordinates": ["-879.1704967000246", "3944.330537433976"] }, "type": "Feature", "properties": { "popTitle": "钓鱼点 - 渊下宫", "popupContent": "这里（传送点后方洞穴）有一个钓鱼点，可以钓到：\n果酿饵：【水晶宴(夜)】\n赤糜饵：【肺棘鱼(夜)】\n飞蝇假饵：【迪芙妲鳐】【佛玛洛鳐】" }, "id": 2 }] }, 
